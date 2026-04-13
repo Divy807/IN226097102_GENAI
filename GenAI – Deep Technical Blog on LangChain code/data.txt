@@ -1,0 +1,12 @@
+LangChain is a framework for building applications powered by large language models (LLMs).
+
+It helps developers connect LLMs with external data sources, APIs, and tools to create intelligent systems.
+
+Key features of LangChain include:
+- Prompt management
+- Chains for multi-step workflows
+- Memory for context retention
+- Agents for decision making
+- Integration with vector databases for semantic search
+
+LangChain is widely used in building chatbots, document question-answering systems, and AI agents.
